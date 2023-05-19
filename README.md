@@ -2,7 +2,10 @@ A simple Tallstack e-commerce application with [filamentphp](https://filamentphp
 
 The Project is still under development and subjected to heavy change over the time and some functionality may not be perfectly work in different situation.
 
-For installation use
+### Preview
+<video src="screenshots/preview.mp4" controls title="Preview Checkout"></video>
+
+### For installation use
 ```bash
 composer install
 npm install && npm run dev
