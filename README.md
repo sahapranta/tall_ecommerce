@@ -3,6 +3,7 @@ A simple Tallstack e-commerce application with [filamentphp](https://filamentphp
 The Project is still under development and subjected to heavy change over the time and some functionality may not be perfectly work in different situation.
 
 ### Preview
+![Banner](https://raw.githubusercontent.com/sahapranta/tall_ecommerce/main/screenshots/tall_ecommerce_preview.jpg)
 <video src="screenshots/preview.mp4" controls title="Preview Checkout"></video>
 
 ### For installation use
